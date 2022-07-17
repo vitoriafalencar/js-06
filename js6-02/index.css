@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&family=Rubik+Moonrocks&display=swap');
+
+h1{
+    color: rgb(213, 246, 0); 
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+ }
+
+ h3{
+    color: rgb(0, 0, 0);
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Rubik Moonrocks', cursive;
+ }
+
+ body{
+ background-color: dimgrey;
+ }
+
+ #btn{
+    background-color: orangered;
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 100px;
+ }
